@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.kehuguanli.app</Name>
+  <DisplayName>客户管理系统</DisplayName>
+  <Description>客户关系管理和数据分析工具。</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2025-08-18</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="19464198" OS="Any" UncompressedSize="70164392"/>
+  <DownloadableArchives>generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,content.7z</DownloadableArchives>
+  <SHA1>9ec7b4338925fbfe94242725d065e6adb6c8c700</SHA1>
+ </PackageUpdate>
+ <SHA1>e8c364721a25b46e044920d5267c182b37bdd123</SHA1>
+ <MetadataName>2025-08-20-1026_meta.7z</MetadataName>
+</Updates>
